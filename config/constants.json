@@ -1,7 +1,7 @@
 var JSON_CONSTANTS = [
   {
     "name": "TITLE",
-    "value": "River Basin Restoration Priorities Web Application"
+    "value": "River Basin Restoration Priorities Web Application test"
   },
   {
     "name": "AGO_URL",
